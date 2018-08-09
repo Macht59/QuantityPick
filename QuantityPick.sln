@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantityPick", "QuantityPick\QuantityPick.csproj", "{84CB34BB-452A-41AA-A5C2-247837723965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantityPick.Tests", "QuantityPick.Tests\QuantityPick.Tests.csproj", "{7995DB55-9CDB-4B83-BCCC-729E783E86E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84CB34BB-452A-41AA-A5C2-247837723965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CB34BB-452A-41AA-A5C2-247837723965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CB34BB-452A-41AA-A5C2-247837723965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CB34BB-452A-41AA-A5C2-247837723965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7995DB55-9CDB-4B83-BCCC-729E783E86E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7995DB55-9CDB-4B83-BCCC-729E783E86E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7995DB55-9CDB-4B83-BCCC-729E783E86E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7995DB55-9CDB-4B83-BCCC-729E783E86E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A8C2B0-D3CE-41B8-8348-A41880FDFDF0}
+	EndGlobalSection
+EndGlobal
